@@ -1,0 +1,8 @@
+language: haskell
+install:
+  - cabal install pandoc
+script:
+  - ./tests.hs
+branches:
+  only:
+    - master
