@@ -204,7 +204,7 @@ ROZDZIAŁ IV – KONWENT
     c. ustalania wysokości składek od członków zwyczajnych i kandydatów;
     d. podejmowania innych czynności przewidzianych Statutem.
 
-30. Konwent ma obowiązek:
+30. Konwent Zwyczajny ma obowiązek:
 
     a. wybrać dwóch członków Centralnej Komisji Rewizyjnej;
     b. uzupełnić skład Sądu Naczelnego;
