@@ -512,9 +512,9 @@ ROZDZIAŁ XII – REGIONY, ODDZIAŁY, KOŁA I SEKCJE
     Regionu, który podejmuje uchwałę w przedmiocie votum zaufania dla
     mianowanego Prezesa Regionu.
 85. Jeśli Prezes Regionu nie zwoła Konwentu Regionu w trybie określonym
-    w punkcie 78 lub nie uzyska votum zaufania albo absolutorium, Prezes
-    Kongresu Nowej Prawicy bezzwłocznie odwoła go ze stanowiska i nie
-    może powołać go na to stanowisko przez 2 lata.
+    w punkcie 81 lub 84 albo nie uzyska votum zaufania albo
+    absolutorium, Prezes Kongresu Nowej Prawicy bezzwłocznie odwoła go
+    ze stanowiska i nie może powołać go na to stanowisko przez 2 lata.
 86. Nazwy Oddziałów i Kół odpowiadają w miarę możności nazwom powiatu
     lub gminy w sposób nie budzący wątpliwości co do umocowania tych
     Władz. Nazwy Regionów wskazują w sposób jednoznaczny obszar, na
