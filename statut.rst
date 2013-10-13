@@ -262,7 +262,7 @@ ROZDZIAŁ V – KONWENTYKL
     f. Przedkłada Konwentowi propozycje uchwał programowych.
     g. spełnia inne obowiązki przewidziane Statutem.
 
-36. Na specjalnym posiedzeniu bezpośrednio przed Konwentem Zwyczajnym
+36. Na specjalnym posiedzeniu – pierwszym po Konwencie Zwyczajnym –
     Konwentykl wybiera Radę Sygnatariuszów, dwóch członków Centralnej
     Komisji Rewizyjnej, i siedmiu członków Rady Głównej zwykłą
     większością głosów. Inne Konwentykle mogą zmieniać wybranych przez
