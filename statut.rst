@@ -7,8 +7,8 @@ Statut Kongresu Nowej Prawicy
 ROZDZIAŁ I – PARTIA I JEJ CELE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Partia konserwatywno-liberalna o nazwie: Kongres Nowej Prawicy, w
-   skrócie Nowa Prawica Janusza Korwin-Mikke, działa na terenie
+1. Partia konserwatywno-liberalna o nazwie: „Nowa Prawica Janusza
+   Korwin-Mikkego”, nazwa skrócona „Nowa Prawica”, działa na terenie
    Rzeczypospolitej Polskiej oraz wśród obywateli polskich w krajach
    Unii Europejskiej, mogąc utrzymywać kontakty z partiami
    zagranicznymi.
