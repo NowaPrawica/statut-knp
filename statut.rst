@@ -461,11 +461,16 @@ ROZDZIAŁ XII – REGIONY, ODDZIAŁY, KOŁA I SEKCJE
     Podpisywać umowy i zaciągać zobowiązania finansowe Oddział może
     jedynie na podstawie pisemnego upoważnienia przez Skarbnika Kongresu
     Nowej Prawicy na zasadach i do wysokości przez niego określonej.
-77. Koła są pomocniczymi ogniwami działalności partyjnej. Koła tworzone
-    są decyzją Zarządu Oddziału. Mogą obejmować obszar jednej lub kilku
-    gmin, albo dzielnic miasta. Koło musi liczyć co najmniej 3 członków.
-    W nowo tworzonych Kołach w razie braku czynnych praw wyborczych
-    członków Koła mianowania dokonuje Prezes Oddziału.
+77. Koła są pomocniczymi ogniwami działalności partyjnej. Koła
+    tworzone są decyzją Zarządu Oddziału. W przypadku braku Oddziału
+    na danym obszarze decyzję o powołaniu Koła podejmuje Zarząd
+    Regionu. Przepisy art. 75 stosuje się odpowiednio.
+
+    Koła mogą obejmować obszar jednej lub kilku gmin, albo dzielnic
+    miasta. Koło musi liczyć co najmniej 3 członków. W nowo tworzonych
+    Kołach w razie braku czynnych praw wyborczych członków Koła
+    mianowania dokonuje Prezes Oddziału, lub w przypadku braku
+    Oddziału, Prezes Regionu.
 78. Prezes Oddziału może mianować przedstawiciela (reprezentanta)
     Oddziału w konkretnej miejscowości lub gminie na terenie Oddziału. W
     miejscowościach lub gminach objętych działalnością terytorialnego
