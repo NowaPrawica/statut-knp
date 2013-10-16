@@ -199,7 +199,9 @@ ROZDZIAŁ IV – KONWENT
        jeśli proponowane zmiany uzyskały akceptację Konwentyklu. Każdy
        projekt zmiany w Statucie musi być podany do powszechnej
        wiadomości członków partii co najmniej na 2 tygodnie przed
-       terminem Konwentu;
+       terminem Konwentu. Sposób podania do powszechnej wiadomości
+       członków partii projektów zmian w Statucie określa Prezes w
+       każdorazowej decyzji o zwołaniu Konwentu;
     c. ustalania wysokości składek od członków zwyczajnych i kandydatów;
     d. podejmowania innych czynności przewidzianych Statutem.
 
