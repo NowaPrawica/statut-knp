@@ -259,6 +259,7 @@ ROZDZIAŁ V – KONWENTYKL
     c. uzupełnia vacaty w składzie Władz;
     d. wybiera Radę Sygnatariuszów;
     e. wybiera Prezesa Kongresu Nowej Prawicy;
+    f. Wybiera Przewodniczącego Straży;
     f. Przedkłada Konwentowi propozycje uchwał programowych.
     g. spełnia inne obowiązki przewidziane Statutem.
 
@@ -346,8 +347,9 @@ ROZDZIAŁ VII – PREZES I ZARZĄD
 ROZDZIAŁ VIII – STRAŻ
 ~~~~~~~~~~~~~~~~~~~~~
 
-53. Straż liczy 5 osób wybieranych każdorazowo przez Konwent, przy czym
-    każdy uczestnik Konwentu ma 1 głos.
+53. Straż składa się z Przewodniczącego wybieranego przez Konwentykl i 4
+    Członków wybieranych przez Konwent spośród 7 kandydatów zgłoszonych
+    przez Przewodniczącego. W wypadku remisu rozstrzyga Przewodniczący.
 54. Członka Straży może zmienić Konwentykl większością 4/5 głosów lub
     2/3 na wniosek Sądu Naczelnego.
 55. Straż bezpośrednio po swoim wyborze wybiera ze swego grona
