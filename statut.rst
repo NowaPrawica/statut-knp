@@ -7,8 +7,8 @@ Statut Kongresu Nowej Prawicy
 ROZDZIAŁ I – PARTIA I JEJ CELE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Partia konserwatywno-liberalna o nazwie: Kongres Nowej Prawicy, w
-   skrócie Nowa Prawica Janusza Korwin-Mikke, działa na terenie
+1. Partia konserwatywno-liberalna o nazwie: Nowa Prawica Janusza
+   Korwin-Mikke, w skrócie: Nowa Prawica, działa na terenie
    Rzeczypospolitej Polskiej oraz wśród obywateli polskich w krajach
    Unii Europejskiej, mogąc utrzymywać kontakty z partiami
    zagranicznymi.
@@ -322,8 +322,11 @@ ROZDZIAŁ VII – PREZES I ZARZĄD
     I oraz III Wiceprezesa Kongresu Nowej Prawicy, a Konwentykl II i IV
     Wiceprezesa. Zastępują oni kolejno Prezesa na Jego prośbę – lub w
     razie stwierdzonej przez Sąd Naczelny niemożności sprawowania
-    przezeń urzędu. Prezes, Wiceprezesi, Skarbnik i Sekretarz stanowią
-    Zarząd Kongresu Nowej Prawicy.
+    przezeń urzędu. I Wiceprezes (zastępowany przez III Wiceprezesa)
+    odpowiada wtedy za sprawy organizacyjne, a II Wiceprezes
+    (zastępowany przez IV) za reprezentowanie Partii na zewnątrz.
+    Prezes, Wiceprezesi, Skarbnik i Sekretarz stanowią Zarząd Kongresu
+    Nowej Prawicy.
 49. Wszelkie ważniejsze decyzje polityczne Prezes winien skonsultować z
     Wiceprezesami. Na żądanie co najmniej dwóch z nich musi odbyć się
     posiedzenie Zarządu, które ostatecznie rozstrzyga kwestię. Tylko
@@ -483,9 +486,9 @@ ROZDZIAŁ XII – REGIONY, ODDZIAŁY, KOŁA I SEKCJE
     założycielskiego Oddziału.
 
 79. Regiony Kongresu Nowej Prawicy działają na terenie jednego lub kilku
-    województw. Władze Regionów reprezentują Kongres Nowej Prawicy na
-    terenie województw. Regiony są powoływane i rozwiązywane uchwałą
-    Rady Głównej.
+    województwa. Władze Regionów reprezentują Kongres Nowej Prawicy na
+    terenie województwa. Regiony są powoływane i rozwiązywane uchwałą
+    Rady Sygnatariuszów.
 80. Władzami Regionu są: Konwent Regionu, Prezes Regionu, Zarząd Regionu
     i Regionalna Komisja Rewizyjna.
 81. Konwent Regionu zwoływany jest nie rzadziej niż raz na dwa lata
@@ -507,6 +510,21 @@ ROZDZIAŁ XII – REGIONY, ODDZIAŁY, KOŁA I SEKCJE
     w punkcie 78 lub nie uzyska votum zaufania albo absolutorium, Prezes
     Kongresu Nowej Prawicy bezzwłocznie odwoła go ze stanowiska i nie
     może powołać go na to stanowisko przez 2 lata.
+
+    a. Dla sprawniejszego zarządzania Prezes może powoływać
+       koordynnatorów Makro-Regionów. Nie maja oni żadnych uprawnień
+       statutowych, wykonują oddelegowaną władzę Prezesa i informują go
+       o sprawach swego Makro-Regionu.
+
+    b. Jeśli na terenie jednego okręgu wyborczego powstanie kilka
+        Oddziałów, z których przynajmniej jeden ma kilka Kół, Prezes
+        może na wniosek Prezesa Regionu powołać Okręg KNP. Prezesa
+        Okregu mianuje Prezes Regionu, Prezes Okregu, po zasięgnięciu
+        opinii Prezesów Oddziałów, koordynuje działanie Oddziałów,
+        natomiast decyzje podejmuje wyłącznie w dotyczących okręgu
+        wyborczego sprawach wyborczych, nie ingerując w wewnętrzne
+        sprawy Oddziałów.
+
 86. Nazwy Oddziałów i Kół odpowiadają w miarę możności nazwom powiatu
     lub gminy w sposób nie budzący wątpliwości co do umocowania tych
     Władz. Nazwy Regionów wskazują w sposób jednoznaczny obszar, na
