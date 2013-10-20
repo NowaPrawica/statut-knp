@@ -447,15 +447,38 @@ ROZDZIAŁ XI – RADA SYGNATARIUSZÓW
 ROZDZIAŁ XII – REGIONY, ODDZIAŁY, KOŁA I SEKCJE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-75. Podstawowym ogniwem pracy w partii Kongresu Nowej Prawicy jest
-    Oddział, tworzony na terenie powiatu, kilku powiatów lub okręgu
-    wyborczego do Sejmu RP uchwałą Zarządu Regionu. Oddział liczy co
-    najmniej pięciu członków. Zarząd Oddziału reprezentuje Kongres Nowej
-    Prawicy na obszarze działania Oddziału i sprawuje kontrolę nad
-    Kołami. Zarząd Oddziału ustala kandydatów zgłaszanych i popieranych
-    przez Kongres Nowej Prawicy w wyborach do rad gmin, rad powiatów, a
-    także na wójta gminy albo burmistrza, oraz zawiera koalicje
-    wyborcze.
+75. Podstawowym ogniwem pracy w partii Kongres Nowej Prawicy jest
+    Oddział, tworzony na terenie okręgu wyborczego do Sejmu RP uchwałą
+    właściwego terytorialnie Zarządu Regionu. Oddział musi liczyć co
+    najmniej sześciu członków. Oddział sprawuje kontrolę nad
+    podległymi Kołami. Każdy członek zwyczajny ma prawo wystosować
+    wniosek do Zarządu Regionu o utworzenie Oddziału. Zarząd Regionu
+    musi w ciągu 30 dni od daty wpłynięcia wniosku podjąć decyzję –
+    pozytywną lub negatywną – dotyczącą powołania Oddziału. W
+    przypadku wydania decyzji negatywnej wnioskodawcy mają prawo się
+    od niej odwołać do Prezesa Partii w ciągu 30 dni. Prezes Partii w
+    ciągu następnych 14 dni podejmuje decyzję o przyjęciu lub
+    odrzuceniu tego wniosku.
+76. Władzami Oddziału są: Konwent Oddziału, Prezes Oddziału oraz
+    Zarząd Oddziału.
+77. Powołująca Oddział uchwała Zarządu Regionu wskazuje pełniącego
+    obowiązki (p.o.) Prezesa Oddziału, który zwołuje Konwent
+    założycielski Oddziału w terminie 3 miesięcy od dnia utworzenia
+    Oddziału. Konwent Oddziału zwykłą większością głosów: wybiera
+    Władze Oddziału, podejmuje uchwały (w tym uchwala Regulamin
+    Oddziału) i decyduje o udzieleniu votum zaufania dla
+    p.o. Prezesa. Jeśli votum zaufania nie zostanie udzielone, w
+    głosowaniu konstruktywnym wybierany jest nowy Prezes Oddziału
+    Zarządu Oddziału zwołuje Konwent Oddziału co najmniej na 3
+    tygodnie przed upływem rocznej kadencji.
+78. Zarząd Oddziału reprezentuje Kongres Nowej Prawicy na obszarze
+    działania Oddziału, a podczas kampanii w wyborach samorządowych,
+    do Parlamentu Europejskiego i prezydenckich współpracuje z innymi
+    Oddziałami na obszarze właściwych okręgów wyborczych i sprawuje
+    kontrolę nad Kołami. Zarząd Oddziału ustala kandydatów zgłaszanych
+    i popieranych przez Kongres Nowej Prawicy w wyborach do rad gmin,
+    rad powiatów, a także na wójta gminy albo burmistrza oraz zawiera
+    koalicje wyborcze.
 76. Oddziały prowadzą własną gospodarkę finansową w zakresie pobierania
     składek, przyjmowania darowizn i zapisów oraz rozliczeń gotówkowych.
     Podpisywać umowy i zaciągać zobowiązania finansowe Oddział może
