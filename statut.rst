@@ -191,7 +191,9 @@ ROZDZIAŁ IV – KONWENT
     tygodni, jeśli takie żądanie wpłynie od którejkolwiek z Władz lub od
     co najmniej 1/10 członków zwyczajnych. Zwołanie Konwentu Zwyczajnego
     przed upływem roku od poprzedniego z własnej inicjatywy Prezesa
-    wymaga zgody Rady Głównej.
+    wymaga zgody Rady Głównej. W decyzji o zwołaniu Konwentu Prezes musi
+    określić sposób podania do publicznej wiadomości Członków partii
+    projektów zmian w Statucie.
 29. Konwent Zwyczajny ma prawo:
 
     a. wytyczać ogólny kierunek działania partii;
@@ -223,6 +225,9 @@ ROZDZIAŁ IV – KONWENT
        zakończenia tego głosowania członkowie Rady Głównej nie mogą
        siedzieć w Prezydium, a zabierać głos mogą wyłącznie w odpowiedzi
        na pytania uczestników Konwentu Zwyczajnego.
+
+    W decyzji o zwołaniu Konwentu Prezes musi określić sposób podania do
+    publicznej wiadomości Członków partii projektów zmian w Statucie.
 
 32. Prezes w dowolnym terminie zwołuje Konwent Nadzwyczajny i dokonuje
     jego otwarcia. Jest on również zobowiązany to uczynić w terminie 4
