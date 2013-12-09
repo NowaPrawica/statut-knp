@@ -448,14 +448,20 @@ ROZDZIAŁ XII – REGIONY, ODDZIAŁY, KOŁA I SEKCJE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 75. Podstawowym ogniwem pracy w partii Kongresu Nowej Prawicy jest
-    Oddział, tworzony na terenie powiatu, kilku powiatów lub okręgu
-    wyborczego do Sejmu RP uchwałą Zarządu Regionu. Oddział liczy co
-    najmniej pięciu członków. Zarząd Oddziału reprezentuje Kongres Nowej
-    Prawicy na obszarze działania Oddziału i sprawuje kontrolę nad
-    Kołami. Zarząd Oddziału ustala kandydatów zgłaszanych i popieranych
-    przez Kongres Nowej Prawicy w wyborach do rad gmin, rad powiatów, a
-    także na wójta gminy albo burmistrza, oraz zawiera koalicje
-    wyborcze.
+    Oddział, którego obszar – powiat kilka powiatów lub okręg wyborczy
+    do Sejmu RP – uchwala Zarządu Regionu. Podział Regionu na Oddziały
+    musi być dokonany tak, by Oddziały obejmowały całe terytorium
+    Regionu.
+
+    Oddział liczy co najmniej pięciu członków. Konwent założycielski
+    oddziału zwołuje Prezes Regionu lub upoważniony przez niego
+    przedstawiciel.
+
+    Zarząd Oddziału reprezentuje Kongres Nowej Prawicy na obszarze
+    działania Oddziału i sprawuje kontrolę nad Kołami. Zarząd Oddziału
+    ustala kandydatów zgłaszanych i popieranych przez Kongres Nowej
+    Prawicy w wyborach do rad gmin, rad powiatów, a także na wójta
+    gminy albo burmistrza, oraz zawiera koalicje wyborcze.
 76. Oddziały prowadzą własną gospodarkę finansową w zakresie pobierania
     składek, przyjmowania darowizn i zapisów oraz rozliczeń gotówkowych.
     Podpisywać umowy i zaciągać zobowiązania finansowe Oddział może
