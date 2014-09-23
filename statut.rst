@@ -167,10 +167,9 @@ ROZDZIAŁ III – WŁADZE
     Radzie Głównej, Centralnej Komisji Rewizyjnej i Straży. Nie można
     też łączyć stanowisk w Centralnej Komisji Rewizyjnej ze stanowiskami
     w Radzie Głównej i Radzie Sygnatariuszów i w Straży.
-25. Regulamin pracy Konwentyklu uchwala Konwent – i wchodzi on w życie
-    po zatwierdzeniu przez Sąd Naczelny. Regulaminy prac pozostałych
-    Władz ustala Konwentykl – i z wyjątkiem Regulaminu Sądu Naczelnego
-    podlegają one zatwierdzeniu przez Sąd Naczelny.
+25. Regulaminy pracy Władz uchwala Konwentykl. W wypadku wątpliwości
+    interpretacyjnych stwierdzonych przez Sąd Naczelny Konwentykl jest
+    zobowiązany do dokonania zmian na najbliższym posiedzeniu.
 26. Kadencja wszystkich Władz z wyjątkiem Prezesa, Konwentyklu i Sądu
     Naczelnego kończy się z chwilą upływu kadencji Konwentu. Jeśli
     Konwent nie wybierze członków jakiejś Władzy, ich kadencja przedłuża
