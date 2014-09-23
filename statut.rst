@@ -485,7 +485,7 @@ ROZDZIAŁ XII – REGIONY, ODDZIAŁY, KOŁA I SEKCJE
 79. Regiony Kongresu Nowej Prawicy działają na terenie jednego lub kilku
     województw. Władze Regionów reprezentują Kongres Nowej Prawicy na
     terenie województw. Regiony są powoływane i rozwiązywane uchwałą
-    Rady Głównej.
+    Rady Sygnatariuszów.
 80. Władzami Regionu są: Konwent Regionu, Prezes Regionu, Zarząd Regionu
     i Regionalna Komisja Rewizyjna.
 81. Konwent Regionu zwoływany jest nie rzadziej niż raz na dwa lata
