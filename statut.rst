@@ -1,11 +1,8 @@
 Statut Kongresu Nowej Prawicy
 =============================
 
-(wersja ujednolicona – uchw Zarz. 21.10.2012)
----------------------------------------------
-
 ROZDZIAŁ I – PARTIA I JEJ CELE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------
 
 1. Partia konserwatywno-liberalna o nazwie: Kongres Nowej Prawicy, w
    skrócie Nowa Prawica Janusza Korwin-Mikke, działa na terenie
@@ -37,7 +34,7 @@ ROZDZIAŁ I – PARTIA I JEJ CELE
    celów w nadziei, że przyniesie to korzyść w przyszłości.
 
 ROZDZIAŁ II – CZŁONKOWIE
-~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------
 
 7.  Członkowie Kongresu Nowej Prawicy dzielą się na:
 
@@ -149,7 +146,7 @@ ROZDZIAŁ II – CZŁONKOWIE
     Konwentach.
 
 ROZDZIAŁ III – WŁADZE
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 23. Władzami Kongresu Nowej Prawicy są:
 
@@ -176,7 +173,7 @@ ROZDZIAŁ III – WŁADZE
     się do następnego Konwentu.
 
 ROZDZIAŁ IV – KONWENT
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 27. Konwent Zwyczajny zbiera się nie rzadziej niż raz na 2 lata. Jeżeli
     Władze nie dopełnią obowiązku zwołania Konwentu Zwyczajnego w tym
@@ -244,7 +241,7 @@ ROZDZIAŁ IV – KONWENT
     e. uchwalania regulaminu pracy Konwentyklu.
 
 ROZDZIAŁ V – KONWENTYKL
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 34. Konwentykl zwoływany jest przez Radę Sygnatariuszów nie rzadziej niż
     co rok z wyprzedzeniem co najmniej dwóch tygodni. Przepisy dotyczące
@@ -282,7 +279,7 @@ ROZDZIAŁ V – KONWENTYKL
     miejscu.
 
 ROZDZIAŁ VI – RADA GŁÓWNA
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 39. Rada Główna pomaga Prezesowi, kontroluje Jego działalność, decyduje
     i wykonuje inne czynności przewidziane Statutem. Porozumienia z
@@ -311,7 +308,7 @@ ROZDZIAŁ VI – RADA GŁÓWNA
     funkcji w Radzie Głównej podczas następnej kadencji.
 
 ROZDZIAŁ VII – PREZES I ZARZĄD
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------
 
 46. Prezes reprezentuje Kongres Nowej Prawicy na zewnątrz i wykonuje
     wszelkie niezbędne czynności przewidziane Statutem i Programem
@@ -347,7 +344,7 @@ ROZDZIAŁ VII – PREZES I ZARZĄD
     przez Centralną Komisję Rewizyjną.
 
 ROZDZIAŁ VIII – STRAŻ
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 53. Straż liczy 5 osób wybieranych każdorazowo przez Konwent spośród 9
     kandydatów wybranych przez Konwentykl. W wypadku remisu za wybranego
@@ -376,7 +373,7 @@ ROZDZIAŁ VIII – STRAŻ
        Członka Zwyczajnego na okres od 1 do 6 miesięcy.
 
 ROZDZIAŁ IX – CENTRALNA KOMISJA REWIZYJNA
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------
 
 59. Centralna Komisja Rewizyjna składa się z 5 członków, wybieranych
     przez Sąd, Konwent i Konwentykl.
@@ -405,7 +402,7 @@ ROZDZIAŁ IX – CENTRALNA KOMISJA REWIZYJNA
     Główną i Radę Sygnatariuszy.
 
 ROZDZIAŁ X – SĄD NACZELNY
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 65. Sąd Naczelny składa się z trzech Sędziów Zwyczajnych oraz I, II i
     III Sędziego Nadzwyczajnego, wybieranych przez Konwent. Niezwłocznie
@@ -436,7 +433,7 @@ ROZDZIAŁ X – SĄD NACZELNY
     większością 2/3 głosów, ale tylko na wniosek Konwentyklu.
 
 ROZDZIAŁ XI – RADA SYGNATARIUSZÓW
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------
 
 72. Rada Sygnatariuszów wybierana jest przez Konwentykl spośród
     członków-sygnatariuszów, przy czym każdy członek Rady Sygnatariuszów
@@ -449,7 +446,7 @@ ROZDZIAŁ XI – RADA SYGNATARIUSZÓW
     wyjątkiem wyboru Władz.
 
 ROZDZIAŁ XII – REGIONY, ODDZIAŁY, KOŁA I SEKCJE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------
 
 75. Podstawowym ogniwem pracy w partii Kongres Nowej Prawicy jest
     Oddział, którego obszar – powiat, kilka powiatów lub okręg wyborczy
@@ -550,7 +547,7 @@ ROZDZIAŁ XII – REGIONY, ODDZIAŁY, KOŁA I SEKCJE
     terenie którego działa Oddział.
 
 ROZDZIAŁ XIII – POSTANOWIENIA KOŃCOWE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------
 
 95. Godło i symbolikę Kongresu Nowej Prawicy ustali Konwentykl.
 96. Decyzję o rozwiązaniu Kongresu Nowej Prawicy, zawieszeniu
