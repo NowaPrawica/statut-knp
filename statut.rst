@@ -532,9 +532,7 @@ ROZDZIAŁ XII – REGIONY, ODDZIAŁY, KOŁA I SEKCJE
     lub Regulaminu Oddziału dotyczących zasad działalności finansowej –
     członkowie Zarządu Oddziału odpowiadają osobiście za zobowiązania
     Oddziału.
-91. Oddziały oraz Regiony mogą uchwalać własne składki. Sposób
-    przekazywania składki centralnej na Kongres Nowej Prawicy określa
-    Skarbnik Rady Głównej.
+91. Oddziały oraz Regiony mogą uchwalać własne składki.
 92. Postanowienia z tego rozdziału odnoszą się – z niezbędnymi zmianami
     – do Kół.
 93. Członkowie o wspólnych zainteresowaniach działający w określonym
