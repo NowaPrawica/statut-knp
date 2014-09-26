@@ -120,14 +120,8 @@ ROZDZIAŁ II – CZŁONKOWIE
     c. dla członków wspierających – Rada Główna.
 
 19. Sposób płacenia i przekazywania składki określa Rada Główna na
-    wniosek Skarbnika Kongresu Nowej Prawicy. Członek opłacając składkę
-    otrzymuje centralną legitymację potwierdzającą wpłatę i członkostwo.
-    Szczegółowe zasady dotyczące wydawania legitymacji ustala Rada
-    Główna.
-
-    Konwentykl może zmniejszyć składki dla pewnych kategorii członków
-    zwyczajnych lub kandydatów.
-
+    wniosek Skarbnika Kongresu Nowej Prawicy. Konwentykl może zmniejszyć
+    składki dla pewnych kategorii członków zwyczajnych lub kandydatów.
 20. Członek Kongresu Nowej Prawicy ma prawo udziału w Konwencie. W
     przypadku przekroczenia liczby 500 członków Rada Główna może, a przy
     przekroczeniu liczby 1000 musi – ogłosić obrady Konwentu Krajowego
