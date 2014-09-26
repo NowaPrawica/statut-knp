@@ -128,6 +128,14 @@ ROZDZIAŁ II – CZŁONKOWIE
     Konwentykl może zmniejszyć składki dla pewnych kategorii członków
     zwyczajnych lub kandydatów.
 
+20. Decyzja o przyjęciu w poczet członków zwyczajnych oraz opłacenie
+    składki członkowskiej nabierają mocy w momencie przekazania
+    odnośnych dokumentów do centralnego rejestru członkostwa, za
+    prowadzenie którego odpowiada Sekretarz Rady Głównej. Składki
+    opłacane przelewem nabierają mocy najpóźniej w momencie ich
+    wpłynięcia na konto partii. Sposób przekazywania dokumentów do
+    rejestru uchwala Rada Główna, przy czym musi on dopuszczać formę
+    elektroniczną.
 20. Członek Kongresu Nowej Prawicy ma prawo udziału w Konwencie. W
     przypadku przekroczenia liczby 500 członków Rada Główna może, a przy
     przekroczeniu liczby 1000 musi – ogłosić obrady Konwentu Krajowego
