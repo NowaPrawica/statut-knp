@@ -119,11 +119,10 @@ ROZDZIAŁ II – CZŁONKOWIE
        zwyczajnych;
     c. dla członków wspierających – Rada Główna.
 
-19. Sposób płacenia i przekazywania składki określa Rada Główna na
-    wniosek Skarbnika Kongresu Nowej Prawicy. Członek opłacając składkę
-    otrzymuje centralną legitymację potwierdzającą wpłatę i członkostwo.
-    Szczegółowe zasady dotyczące wydawania legitymacji ustala Rada
-    Główna.
+19. Sposób płacenia i przekazywania składki określa Rada Główna. Członek
+    opłacając składkę otrzymuje centralną legitymację potwierdzającą
+    wpłatę i członkostwo. Szczegółowe zasady dotyczące wydawania
+    legitymacji ustala Rada Główna.
 
     Konwentykl może zmniejszyć składki dla pewnych kategorii członków
     zwyczajnych lub kandydatów.
