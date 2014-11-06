@@ -119,8 +119,9 @@ ROZDZIAŁ II – CZŁONKOWIE
        zwyczajnych;
     c. dla członków wspierających – Rada Główna.
 
-19. Sposób płacenia i przekazywania składki określa Rada Główna na
-    wniosek Skarbnika Kongresu Nowej Prawicy. Członek opłacając składkę
+19. Składka jest opłacana przelewem z konta osobistego członka.
+    Szczegółowy sposób płacenia składki określa Rada Główna na wniosek
+    Skarbnika Kongresu Nowej Prawicy. Członek opłacając składkę
     otrzymuje centralną legitymację potwierdzającą wpłatę i członkostwo.
     Szczegółowe zasady dotyczące wydawania legitymacji ustala Rada
     Główna.
