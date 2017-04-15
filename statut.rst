@@ -41,7 +41,6 @@ ROZDZIAŁ II – CZŁONKOWIE
     a. członków honorowych;
     b. członków-sygnatariuszów;
     c. członków zwyczajnych;
-    d. członków wspierających;
     e. kandydatów.
 
 8.  Członkiem honorowym staje się pełnoletni obywatel RP, który został
@@ -73,10 +72,6 @@ ROZDZIAŁ II – CZŁONKOWIE
     przedłożył Radzie Sygnatariuszów rezygnację ze swojej kategorii
     członkostwa – pod warunkiem uzupełnienia składek w wysokości
     ustalonej dla członków zwyczajnych.
-13. Członkiem wspierającym staje się obywatel RP, który wypełnił
-    deklarację członkowską i płaci należne składki. Członkowie
-    wspierający nie posiadają praw wyborczych, ale posiadają wszelkie
-    prawa wynikające ze sprawowanych funkcji.
 14. Kandydatem staje się pełnoletni obywatel RP, który zadeklarował
     poparcie dla zasad i programu Kongresu Nowej Prawicy, wypełnił
     deklarację członkowską i opłacił należne składki. Kandydaci
@@ -117,7 +112,6 @@ ROZDZIAŁ II – CZŁONKOWIE
     b. dla członków-sygnatariuszów – Konwentykl, przy czym składka
        członków-sygnatariuszów nie może być niższa od składek członków
        zwyczajnych;
-    c. dla członków wspierających – Rada Główna.
 
 19. Sposób płacenia i przekazywania składki określa Rada Główna na
     wniosek Skarbnika Kongresu Nowej Prawicy. Członek opłacając składkę
