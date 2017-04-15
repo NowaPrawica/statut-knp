@@ -323,7 +323,12 @@ ROZDZIAŁ VII – PREZES I ZARZĄD
     Wiceprezesa. Zastępują oni kolejno Prezesa na Jego prośbę – lub w
     razie stwierdzonej przez Sąd Naczelny niemożności sprawowania
     przezeń urzędu. Prezes, Wiceprezesi, Skarbnik i Sekretarz stanowią
-    Zarząd Kongresu Nowej Prawicy.
+    Zarząd Kongresu Nowej Prawicy. Pierwszy Wiceprezes odpowiada za stan
+    formalno-prawny, Drugi Wiceprezes odpowiada za strukturę i
+    przygotowania do wyborów, Trzeci Wiceprezes odpowiada za kontakty i
+    współpracę z otoczeniem politycznym, Czwarty Wiceprezes odpowiada za
+    wizerunek Partii. Szczegółowe zakresy odpowiedzialności, kompetencji
+    i zadań dla wszystkich Członków Zarządu określa Prezes.
 49. Wszelkie ważniejsze decyzje polityczne Prezes winien skonsultować z
     Wiceprezesami. Na żądanie co najmniej dwóch z nich musi odbyć się
     posiedzenie Zarządu, które ostatecznie rozstrzyga kwestię. Tylko
