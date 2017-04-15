@@ -114,9 +114,7 @@ ROZDZIAŁ II – CZŁONKOWIE
 18. Wysokość składek ustala:
 
     a. dla członków zwyczajnych i kandydatów – Konwent;
-    b. dla członków-sygnatariuszów – Konwentykl, przy czym składka
-       członków-sygnatariuszów nie może być niższa od składek członków
-       zwyczajnych;
+    b. dla członków-sygnatariuszów – Konwentykl;
     c. dla członków wspierających – Rada Główna.
 
 19. Sposób płacenia i przekazywania składki określa Rada Główna na
