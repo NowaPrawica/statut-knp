@@ -40,6 +40,7 @@ ROZDZIAŁ II – CZŁONKOWIE
 
     a. członków honorowych;
     b. członków-sygnatariuszów;
+    c. członków donatorów;
     c. członków zwyczajnych;
     d. członków wspierających;
     e. kandydatów.
@@ -64,11 +65,27 @@ ROZDZIAŁ II – CZŁONKOWIE
     członka zwyczajnego do czasu uzupełnienia składek ustalonych dla
     członków-sygnatariuszów.
 
+11. Członkiem donatorem staje się od początku roku kalendarzowego
+    członek zwyczajny, który do końca poprzedniego roku kalendarzowego
+    opłaci za cały następny rok stosowną składkę a znalazł się na liście
+    kandydatów na członków donatorów, którą to listę zobowiązany jest
+    sporządzić Zarząd do końca listopada każdego roku. na ww. liście
+    umieszcza się członków zwyczajnych z dwuletnim(opcja a) / z
+    rocznym(opcja b)) stażem członkowskim. Z ww. listy usuwa się nazwisko
+    członka jeśli takie żądanie zgłosi któraś z władz partii.
+
+    Członkiem donatorem staje się też członek sygnatariusz, który
+    przedłożył Radzie Sygnatariuszów rezygnację ze swojej kategorii
+    członkostwa pod warunkiem opłacenia składek ustalonych dla
+    członków donatorów.
+
 11. Członkiem zwyczajnym staje się pełnoletni obywatel RP, który
     zakończył co najmniej sześciomiesięczny staż kandydacki i płaci
     składki. O przyjęciu kandydata do grona członków zwyczajnych
     decyduje Zarząd właściwego Oddziału, Regionu lub Prezes Kongresu
-    Nowej Prawicy.
+    Nowej Prawicy. Członkiem Zwyczajnym staje się też z początkiem
+    roku kalendarzowego członek donator, który nie opłacił do końca
+    minionego roku składki ustalonej dla członków donatorów.
 12. Członkiem zwyczajnym staje się także członek-sygnatariusz, który
     przedłożył Radzie Sygnatariuszów rezygnację ze swojej kategorii
     członkostwa – pod warunkiem uzupełnienia składek w wysokości
@@ -113,6 +130,7 @@ ROZDZIAŁ II – CZŁONKOWIE
 
 18. Wysokość składek ustala:
 
+    a. dla członków zwyczajnych, członków donatorów i kandydatów – Konwent;
     a. dla członków zwyczajnych i kandydatów – Konwent;
     b. dla członków-sygnatariuszów – Konwentykl, przy czym składka
        członków-sygnatariuszów nie może być niższa od składek członków
@@ -360,7 +378,10 @@ ROZDZIAŁ VIII – STRAŻ
     pozbawić zgodnie z punktem 15 lit. d. (z zastrzeżeniem pktu 16)
     członkostwa dowolnego członka, z wyjątkiem członków honorowych. Od
     decyzji Straży nie przysługuje odwołanie – a ponowne przyjęcie nie
-    może nastąpić przed upływem 3 lat.
+    może nastąpić przed upływem 3 lat. Na wniosek Prezesa Straż może
+    też większością ¾ głosów pełnego składu zmienić status członka
+    donatora na status członka zwyczajnego, przy czym nadpłacone
+    składki zostają zaliczone na poczet przyszłego okresu.
 58. Po uznaniu winy przez Sąd Naczelny Straż ma prawo:
 
     a. w stosunku do członka zwyczajnego większością 3/5 głosów
